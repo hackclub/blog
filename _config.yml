@@ -1,11 +1,15 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
+title:       Hack Strikes Back
+email:       team@hackclub.io
 author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+description: > # this means to ignore newlines until "baseurl:"
+  A collection of words meant for humans, not computers. Brought to you by the
+  Hack Club staff.
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "https://blog.hackclub.io"
 date_format: "%b %-d, %Y"
+gems:
+  - jekyll-mentions
 
 # Google services
 google_analytics:
