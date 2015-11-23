@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Renaming to Hack Club
+title:      We are Hack Club
 date:       2015-11-22
 author:     Zach Latta
 summary:    As of today, we're changing our name from hackEDU to Hack Club.
