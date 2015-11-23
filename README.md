@@ -1,4 +1,4 @@
-# The Hack Strikes Back
+# The Hack Strikes Back [![Circle CI](https://circleci.com/gh/hackclub/blog.svg?style=svg)](https://circleci.com/gh/hackclub/blog)
 
 ![The Hack Strikes Back logo](http://i.imgur.com/v1Loirc.gif)
 
