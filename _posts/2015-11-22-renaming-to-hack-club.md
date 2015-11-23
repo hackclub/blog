@@ -4,7 +4,6 @@ title:      We are Hack Club
 date:       2015-11-22
 author:     Zach Latta
 summary:    As of today, we're changing our name from hackEDU to Hack Club.
-categories: hackclub renaming
 ---
 
 ![The hack strikes back logo](https://i.imgur.com/v1Loirc.gif){: .center-image }
