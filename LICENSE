@@ -1,6 +1,6 @@
 Hack Club (c)
 
-Code in this repository (Hack Club), including embedded code in other content,
+Code in this repository (Blog), including embedded code in other content,
 is licensed under the MIT license. All other content is licensed under a
 Creative Commons Attribution-ShareAlike 4.0 International License.
 
@@ -11,8 +11,13 @@ version of the Creative Commons license is available at
 
 --------------------------------------------------------------------------------
 
-In addition to the above license details, Hack Club includes third party code
+In addition to the above license details, Blog includes third party code
 that has been made available under various licenses.
+
+jekyll:
+
+Project site - https://jekyllrb.com/
+License - MIT License, https://github.com/jekyll/jekyll/blob/master/LICENSE
 
 pixyll:
 
