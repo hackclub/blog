@@ -7,6 +7,8 @@ summary:    As of today, we're changing our name from hackEDU to Hack Club.
 categories: hackclub renaming
 ---
 
+![The hack strikes back logo](https://i.imgur.com/v1Loirc.gif){: .center-image }
+
 We're going to keep our first post nice and simple. As of today, we're changing
 our name from hackEDU to Hack Club.
 
@@ -19,5 +21,3 @@ we'll be putting on sale soon. We're also launching a Teespring for a really
 neat-o shirt that @MaxWofford crafted over the weekend.
 
 Happy hacking!
-
-<img alt="The hack strikes back" src="http://i.imgur.com/v1Loirc.gif" style="text-align: center;">
