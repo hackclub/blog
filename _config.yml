@@ -67,3 +67,4 @@ permalink:    pretty
 paginate:     4
 sass:
   compressed: true
+exclude: ['vendor']
