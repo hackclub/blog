@@ -11,4 +11,3 @@ checking out
 ## License
 
 For this project's license, please see (LICENSE).
-
