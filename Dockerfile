@@ -1,4 +1,4 @@
-FROM jekyll/jekyll:latest
+FROM jekyll/jekyll:pages
 MAINTAINER Zach Latta <zach@hackedu.us>
 
 RUN rm -rf /srv/jekyll/
