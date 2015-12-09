@@ -23,7 +23,7 @@ figures.
 
 [alexb](https://github.com/zucchinize) and
 [jonleung](https://github.com/jonleung) hopped on a call to build
-[a tool to track our daily slack activity](https://github.com/jonleung/slack-stats-viewer).
+[a tool to track our daily Slack activity](https://github.com/jonleung/slack-stats-viewer).
 
 > [![alexb and jonleung hop in a call to pair](/assets/alexb_and_jonleung_pair_highlight.png)](https://starthackclub.slack.com/archives/random/p1449212126007386)
 
