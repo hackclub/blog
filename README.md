@@ -10,4 +10,4 @@ checking out
 
 ## License
 
-For this project's license, please see (LICENSE).
+For this project's license, please see [LICENSE](LICENSE).
