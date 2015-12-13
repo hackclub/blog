@@ -29,7 +29,7 @@ figures.
 
 --------------------------------------------------------------------------------
 
-[metmets](https://github.com/metmets/metmets), our first club leader in Estonia
-(and Europe!) shared a picture of their first meeting last Friday.
+[metmets](http://metmets.github.io/), our first club leader in Estonia(and 
+Europe!) shared a picture of their first meeting last Friday.
 
 > [![confirmation of first meeting in Estonia](/assets/club_meeting_in_estonia_highlight.png)](https://starthackclub.slack.com/archives/random/p1449264372007573)
