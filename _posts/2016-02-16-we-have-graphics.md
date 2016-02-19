@@ -6,8 +6,6 @@ author:     Jessica Kwok
 summary:    We have graphics!
 ---
 
-# Hack Club Banners
-
 Hack Club is proud to announce the deployment of fresh new Hack Club banners
 you can overlay on your website! Sure, we had great high quality stickers (A+,
 Max) (what? you don't have any? Email <zach@hackclub.com> at once!), but you
