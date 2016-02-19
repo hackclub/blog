@@ -8,6 +8,7 @@ table {
   max-width: 100%;
   margin-bottom: 1.5;
   font-size: 1.125rem;
+  table-layout: fixed;
   // Cells
   > thead,
   > tbody,
@@ -19,6 +20,7 @@ table {
         line-height: 1.2;
         vertical-align: top;
         border-top: 1px solid #333;
+        overflow: auto;
       }
     }
   }
