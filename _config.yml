@@ -1,12 +1,12 @@
 # Site settings
 title:       The Hack Strikes Back
-email:       team@hackclub.io
+email:       team@hackclub.com
 author:      Hack Club Staff
 description: > # this means to ignore newlines until "baseurl:"
   A collection of words meant for humans, not computers. Brought to you by the
   Hack Club staff.
 baseurl:     ""
-url:         "https://blog.hackclub.io"
+url:         "https://blog.hackclub.com"
 date_format: "%b %-d, %Y"
 gems:
   - jekyll-mentions
