@@ -38,8 +38,8 @@ Here are a few pictures from last year:
 ![Hackers working on a post-it littered table][hackcamp brainstorm]{: .half}
 ![Hackers pretending to be cats][hackcamp energizer]{: .half}
 
-If you have any questions, please don't hesitate to reach out! We can be
-contacted at [summer@hackclub.com](mailto:summer@hackclub.com).
+If you have any questions, please don't hesitate to reach out! Shoot us an email
+at [summer@hackclub.com](mailto:summer@hackclub.com).
 
 Happy hacking!
 
