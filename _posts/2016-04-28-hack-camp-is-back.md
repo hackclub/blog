@@ -7,11 +7,12 @@ summary:    We'll be running a Hack Camp this summer.
 ---
 
 We're very excited to announce Hack Camp, our two-week high school summer camp
-in downtown San Francisco, will be coming back this summer. There'll be four
-sessions starting June 6th and ending August 19th. It's targeted towards
-complete beginners and we'll be covering the fundamentals of web development
-(i.e. building websites and web games). Find out more and apply at
-[https://camp.hackclub.com/](https://camp.hackclub.com/).
+in downtown San Francisco, will be coming back this summer.
+
+There will be four sessions starting June 6th and ending August 19th. It's
+targeted towards complete beginners and we'll be covering the fundamentals of
+web development (i.e. building websites and web games). Find out more and apply
+at [https://camp.hackclub.com/](https://camp.hackclub.com/).
 
 ![Hack Camp][hackcamp logo]{: .center-image}
 
