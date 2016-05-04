@@ -6,8 +6,8 @@ author:     Max Wofford
 summary:    We'll be running a Hack Camp this summer.
 ---
 
-We're very excited to announce Hack Camp, our two-week high school summer camp
-in downtown San Francisco, will be coming back this summer.
+We're very excited to announce that Hack Camp, our two-week high school summer
+camp in downtown San Francisco, will be coming back this summer.
 
 There will be four sessions starting June 6th and ending August 19th. It's
 targeted towards complete beginners and we'll be covering the fundamentals of
