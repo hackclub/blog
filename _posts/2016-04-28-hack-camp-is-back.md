@@ -31,23 +31,22 @@ figured last year's hackers can talk about it better than I can.
 >  schooler, a high school freshman, a high school sophomore, or a high school
 >  junior, I have never made so many mistakes.
 
+Here are a few pictures from last year:
+
+![Group photo with Tom Preston-Werner][hackcamp group photo]{: .half}
+![Group photo of our third session][hackcamp]{: .half}
+![Hackers working on a post-it littered table][hackcamp brainstorm]{: .half}
+![Hackers pretending to be cats][hackcamp energizer]{: .half}
+
 If you have any questions, please don't hesitate to reach out! We can be
 contacted at [summer@hackclub.com](mailto:summer@hackclub.com).
-
-Here's a few pictures from last year:
-
-![Group photo with Tom Preston-Werner][hackcamp group photo]
-![Hack Camp Cohort 3][hackcamp]
-![Brainstorming with post-its][hackcamp brainstorm]
-![Energizers on the roof][hackcamp energizer]
-
-[hackcamp group photo]: /assets/hackcamp_group_photo.jpg "Tom Preston-Werner showed up"
-[hackcamp]: /assets/hackcamp.jpg "We look fantastic"
-[hackcamp brainstorm]: /assets/hackcamp_brainstorming.jpg "Hack Camp brainstorming"
-[hackcamp energizer]: /assets/hackcamp_energizer.jpg "Running energizers on the roof after lunch"
 
 Happy hacking!
 
 \- Max
 
 [hackcamp logo]: /assets/hackcamp_logo.svg "Thanks for making the logo Jessica!"
+[hackcamp group photo]: /assets/hackcamp_group_photo.jpg "Tom Preston-Werner showed up"
+[hackcamp]: /assets/hackcamp.jpg "Fantastic group picture with our third session"
+[hackcamp brainstorm]: /assets/hackcamp_brainstorming.jpg "Brainstorming with post-its"
+[hackcamp energizer]: /assets/hackcamp_energizer.jpg "I think this was our best impression of a cat"

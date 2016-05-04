@@ -48,6 +48,14 @@
   html {
     font-size: 18px;
   }
+
+  .half {
+    padding: 5px;
+    box-sizing: border-box;
+    width: 50%;
+    float: left;
+    display: inline;
+  }
 }
 
 @media screen and (min-width: $viewport-large) {
