@@ -13,6 +13,8 @@ complete beginners and we'll be covering the fundamentals of web development
 (i.e. building websites and web games). Find out more and apply at
 [https://camp.hackclub.com/](https://camp.hackclub.com/).
 
+![Hack Camp][hackcamp logo]{: .center-image}
+
 I could go on all day about how much of a blast it was last summer, but I
 figured last year's hackers can talk about it better than I can.
 
@@ -46,3 +48,5 @@ Here's a few pictures from last year:
 Happy hacking!
 
 \- Max
+
+[hackcamp logo]: /assets/hackcamp_logo.svg "Thanks for making the logo Jessica!"
