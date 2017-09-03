@@ -1,4 +1,6 @@
-# The Hack Strikes Back [![Circle CI](https://circleci.com/gh/hackclub/blog.svg?style=svg)](https://circleci.com/gh/hackclub/blog)
+# The Hack Strikes Back [DEPRECATED] [![Circle CI](https://circleci.com/gh/hackclub/blog.svg?style=svg)](https://circleci.com/gh/hackclub/blog)
+
+:warning: This blog is no longer being maintained or updated by Hack Club staff.
 
 ![The Hack Strikes Back logo](https://i.imgur.com/v1Loirc.gif)
 
